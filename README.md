@@ -14,4 +14,6 @@ The Queue.h librarie:
 And the Boolean.h librarie:
  - [Booleano.h](https://git-scm.com)
 
-After the downloads are done, you must put them all in the same folder and you are ready to compile and run teh Panquecas.c
+They are also in the src folder.
+
+After the downloads are done, you must put them all in the same folder and you are ready to compile and run thh Panquecas.c
